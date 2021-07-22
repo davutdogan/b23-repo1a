@@ -1,1 +1,2 @@
-menu.txt
+Coffee 2.99 150cal
+Donut 1.30 100cal
